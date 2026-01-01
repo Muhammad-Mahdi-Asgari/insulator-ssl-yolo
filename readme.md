@@ -5,14 +5,14 @@ You can download the dataset (dataset_no_aug.zip) here:
 After downloading, extract it so the structure looks like:
 
 # Project Structure
-insulator-ssl-yolo/
-└── data/
-    ├── images/
-    │   ├── train/
-    │   └── val/
-    └── labels/
-        ├── train/
-        └── val/
+insulator-ssl-yolo/ <br>
+└── data/<br>
+    ├── images/<br>
+    │   ├── train/<br>
+    │   └── val/<br>
+    └── labels/<br>
+        ├── train/<br>
+        └── val/<br>
 
 
 
