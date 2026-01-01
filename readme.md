@@ -4,7 +4,7 @@ You can download the dataset (dataset_no_aug.zip) here:
 
 After downloading, extract it so the structure looks like:
 
-#
+# Project Structure
 insulator-ssl-yolo/
 └── data/
     ├── images/
