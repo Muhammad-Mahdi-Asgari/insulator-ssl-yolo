@@ -5,7 +5,7 @@ You can download the dataset (dataset_no_aug.zip) here:
 After downloading, extract it so the structure looks like:
 
 # Project Structure
-<textarea
+<textarea>
 insulator-ssl-yolo/
 └── data/
 	 ├── images/
@@ -14,7 +14,7 @@ insulator-ssl-yolo/
     └── labels/
         ├── train/
         └── val/
-></textarea>
+</textarea>
 
 
 # Insulator Detection: Baseline vs SSL-Trained Model
