@@ -1,13 +1,27 @@
+You can download the dataset (dataset_no_aug.zip) here:
+   
+👉 https://drive.google.com/file/d/1nmTN4edUzP6TSK8Sf3gtWV5hRNTQnzT2/view?usp=sharing
+
+After downloading, extract it so the structure looks like:
+
+insulator-ssl-yolo/
+└── data/
+    ├── images/
+    │   ├── train/
+    │   └── val/
+    └── labels/
+        ├── train/
+        └── val/
+
+
+
 # Insulator Detection: Baseline vs SSL-Trained Model
 
 This repository contains:
-- A baseline YOLO model trained in Summer 2024
-- A newly trained model using a semi-supervised pipeline
+- A baseline YOLO model trained in Summer 2025
+- A newly trained model for semi-supervised pipeline
 - Scripts for image and video inference
 - A dataset ratio utility
-
-## Repo Structure
-(put the tree I wrote earlier)
 
 ## Requirements
 Python 3.10+
