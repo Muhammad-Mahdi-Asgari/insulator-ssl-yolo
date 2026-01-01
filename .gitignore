@@ -1,0 +1,27 @@
+cd ~/University/insulator-ssl-yolo
+
+cat > .gitignore << 'EOF'
+# macOS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+project/
+
+# Ultralytics / runs
+runs/
+
+# Big data – DO NOT PUSH
+data/
+insulator_dataset/
+*.zip
+*.tar
+*.tar.gz
+
+EOF
